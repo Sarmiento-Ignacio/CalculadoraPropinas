@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="calculate_tip">Calcular Propina</string>
+    <string name="bill_amount">Monto de la Cuenta</string>
+    <string name="suggested_percentage">Porcentaje sugerido</string>
+    <string name="round_up_tip">¿Redondear propina?</string>
+    <string name="tip_amount">Monto de la Propina: %1$s</string>
+    <string name="currency_usd">USD</string>
+    <string name="currency_clp">CLP</string>
+    <string name="language">Idioma</string>
+    <string name="english">Inglés</string>
+    <string name="spanish">Español</string>
+    <string name="app_name" />
+</resources>
